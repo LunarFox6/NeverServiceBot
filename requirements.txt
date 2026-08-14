@@ -1,2 +1,2 @@
-aiogram
-mcstatus
+aiogram>=3.0.0
+mcstatus>=11.0.0
